@@ -22,12 +22,7 @@ class Classify:
 
 
     def recognition(self):
-        # load model
-        #model = load_model('model.h5')
-        # Reload model 
-       
-        # summarize model
-        #model.summary()
+
         def access_imgfiles_and_preprocess(file_path):
     
             # Read in image from file path( retrun the content of file as tensor)
