@@ -30,3 +30,11 @@ use the below command to run the script:
 python3 test.py 
 ```
 
+Due to size costraints, model is not pushed to githib repo. The same is provided [here](https://drive.google.com/file/d/1C7sgg3CCX53udcLGcx_dW1fwCIaH9nfN/view?usp=drive_link)
+
+To run, please download the zip in gdrive and dont clone the repo, as cloning will need re-training.
+
+or
+
+Just clone the repo, download model from gdrive link given and move it to the cloned repo.
+
